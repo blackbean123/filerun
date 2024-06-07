@@ -38,7 +38,7 @@ output/
 *.jar
 !.mvn/wrapper/*
 *.war
-*.zip
+#*.zip
 *.tar
 #*.tar.gz
 
